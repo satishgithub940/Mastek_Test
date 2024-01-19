@@ -214,9 +214,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\Mastek_Test\\Mastek_Test.csproj",
-      "projectName": "Mastek_Test",
-      "projectPath": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\Mastek_Test\\Mastek_Test.csproj",
+      "projectUniqueName": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\Mastek_Test\\Mastek.API.csproj",
+      "projectName": "Mastek.API",
+      "projectPath": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\Mastek_Test\\Mastek.API.csproj",
       "packagesPath": "C:\\Users\\jagdi\\.nuget\\packages\\",
       "outputPath": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\Mastek_Test\\obj\\",
       "projectStyle": "PackageReference",

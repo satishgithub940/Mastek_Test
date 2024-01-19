@@ -1,0 +1,11 @@
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\bin\Debug\net5.0\PostCode.Services.deps.json
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\bin\Debug\net5.0\PostCode.Services.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\bin\Debug\net5.0\PostCode.Services.pdb
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\obj\Debug\net5.0\PostCode.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\obj\Debug\net5.0\PostCode.Services.AssemblyInfoInputs.cache
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\obj\Debug\net5.0\PostCode.Services.AssemblyInfo.cs
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\obj\Debug\net5.0\PostCode.Services.csproj.CoreCompileInputs.cache
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\obj\Debug\net5.0\PostCode.Services.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\obj\Debug\net5.0\refint\PostCode.Services.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\obj\Debug\net5.0\PostCode.Services.pdb
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\obj\Debug\net5.0\ref\PostCode.Services.dll
