@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PostCode.Services
+namespace PostCodeAPI.Services
 {
     public class Class1
     {

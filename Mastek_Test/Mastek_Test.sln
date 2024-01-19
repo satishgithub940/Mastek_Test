@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastek.API", "Mastek_Test\M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostCode.Services", "PostCode.Services\PostCode.Services.csproj", "{24C702DC-6C2A-4481-8A1D-FE05B461B414}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostCodeAPI.Services", "PostCodeAPI.Services\PostCodeAPI.Services.csproj", "{A3AFF479-D2FA-4B97-BB7D-48FD34655108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastek.Model", "Mastek.Model\Mastek.Model.csproj", "{AD794F22-9018-4AFE-9F98-8A6D3BA0FC5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{24C702DC-6C2A-4481-8A1D-FE05B461B414}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24C702DC-6C2A-4481-8A1D-FE05B461B414}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24C702DC-6C2A-4481-8A1D-FE05B461B414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3AFF479-D2FA-4B97-BB7D-48FD34655108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AFF479-D2FA-4B97-BB7D-48FD34655108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AFF479-D2FA-4B97-BB7D-48FD34655108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AFF479-D2FA-4B97-BB7D-48FD34655108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD794F22-9018-4AFE-9F98-8A6D3BA0FC5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD794F22-9018-4AFE-9F98-8A6D3BA0FC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD794F22-9018-4AFE-9F98-8A6D3BA0FC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD794F22-9018-4AFE-9F98-8A6D3BA0FC5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
