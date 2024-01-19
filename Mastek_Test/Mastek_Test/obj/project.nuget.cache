@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fhZapYZMGSXkc6cZvfIZU4vZKY4tTLbxE7kLBmjxy9ic8ennDtSsE//THQHnnESBoM7kPhGRTHjXebShg88q3g==",
+  "success": true,
+  "projectFilePath": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\Mastek_Test\\Mastek_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jagdi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
