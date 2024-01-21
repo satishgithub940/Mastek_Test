@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jwVXE0k6/mXtGZhno0JszVdEH+MkMi2D2QgJjwRegGUv78QeMuTVRgjJEHhzSxaA4aVHXCCO6A7aYDnZtz+EWQ==",
+  "dgSpecHash": "nQEFh/6b8pa44kR8IlBTL/gLqtEcty3lqKuvSyQCe3NUxgT0rBE7xiC60ylukuTyWDb3+YnP7pUqKfRDpGUy7g==",
   "success": true,
   "projectFilePath": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\PostCode.Services\\Mastek.Services.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jagdi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

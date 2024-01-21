@@ -15,7 +15,12 @@ namespace PostCode.Services.PostCode
         { _postCodeAPIService = postCodeAPIService; }
         public PostCodeDbo GetAreaDetailByPostCode(string postCode)
         {
-            return PostCodeDbo.FromDto(_postCodeAPIService.GetPostCodeDetail(postCode));
+            try
+            {
+                return PostCodeDbo.FromDto(_postCodeAPIService.GetPostCodeDetail(postCode));
+            }
+            catch (Exception ex)
+            { return null; }
         }
     }
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Yu/+HuoajEU+8L0w6dMDkIVtBnGNl2+2+G/C1+rpMCYUcTpjhClOOp6TUETGI54kMtRZRGvpBDVXA1miwqPZSQ==",
+  "dgSpecHash": "l4Jnu5JapU7U2Vcb1+ASQGUI1jTJJpTtHK8eVPbFf2Zp1XYlz6ezcd/BKl5iJEVD3f55insmg+8OY5cqRm+8QQ==",
   "success": true,
   "projectFilePath": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\PostCodeAPI.Services\\PostCodeAPI.Services.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jagdi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

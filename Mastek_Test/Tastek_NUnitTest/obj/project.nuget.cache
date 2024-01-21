@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6HYMxFqv25MI8Nw1givXCoF+72g3WozhNY5H28rWEgdEMeCeYrIGpvD8bgwxOZgxPaPu4HYOb71K7pE1L1y9fg==",
+  "dgSpecHash": "qJeJQR8H8vin/QXjzNwDudx2AJzEUVjHVfFN2vabWBs34cmKr1McIIz/8MVe+KGJTer4yMuAPb0EwTnCFmTIog==",
   "success": true,
   "projectFilePath": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\Tastek_NUnitTest\\Tastek_NUnitTest.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,8 @@
     "C:\\Users\\jagdi\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\jagdi\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\jagdi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\jagdi\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",
     "C:\\Users\\jagdi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\jagdi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
@@ -49,6 +51,7 @@
     "C:\\Users\\jagdi\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\jagdi\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\jagdi\\.nuget\\packages\\system.linq.expressions\\4.1.0\\system.linq.expressions.4.1.0.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\jagdi\\.nuget\\packages\\system.objectmodel\\4.0.12\\system.objectmodel.4.0.12.nupkg.sha512",
     "C:\\Users\\jagdi\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
     "C:\\Users\\jagdi\\.nuget\\packages\\system.reflection.emit\\4.0.1\\system.reflection.emit.4.0.1.nupkg.sha512",
@@ -60,6 +63,7 @@
     "C:\\Users\\jagdi\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
     "C:\\Users\\jagdi\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\jagdi\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\jagdi\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\jagdi\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
     "C:\\Users\\jagdi\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",

@@ -37,3 +37,6 @@ D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\bin\Debug\net
 D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\bin\Debug\net5.0\PostCodeAPI.Services.pdb
 D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\bin\Debug\net5.0\Mastek.Services.dll
 D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\bin\Debug\net5.0\Mastek.Services.pdb
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
