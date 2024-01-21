@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace PostCode.Services.PostCode
 {
-    public class PostCodeService : IPostCode
+    public class PostCodeService : IPostCodeService
     {
         public static IPostCodeAPIService _postCodeAPIService;
         public PostCodeService(IPostCodeAPIService postCodeAPIService)

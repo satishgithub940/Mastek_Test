@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PostCode.Services.PostCode
 {
-    public interface IPostCode
+    public interface IPostCodeService
     {
         PostCodeDbo GetAreaDetailByPostCode(string postCode);
     }
