@@ -102,7 +102,7 @@
           "bin/placeholder/Mastek.Model.dll": {}
         }
       },
-      "PostCode.Services/1.0.0": {
+      "Mastek.Services/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -110,10 +110,10 @@
           "PostCodeAPI.Services": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/PostCode.Services.dll": {}
+          "bin/placeholder/Mastek.Services.dll": {}
         },
         "runtime": {
-          "bin/placeholder/PostCode.Services.dll": {}
+          "bin/placeholder/Mastek.Services.dll": {}
         }
       },
       "PostCodeAPI.Services/1.0.0": {
@@ -244,10 +244,10 @@
       "path": "../Mastek.Model/Mastek.Model.csproj",
       "msbuildProject": "../Mastek.Model/Mastek.Model.csproj"
     },
-    "PostCode.Services/1.0.0": {
+    "Mastek.Services/1.0.0": {
       "type": "project",
-      "path": "../PostCode.Services/PostCode.Services.csproj",
-      "msbuildProject": "../PostCode.Services/PostCode.Services.csproj"
+      "path": "../PostCode.Services/Mastek.Services.csproj",
+      "msbuildProject": "../PostCode.Services/Mastek.Services.csproj"
     },
     "PostCodeAPI.Services/1.0.0": {
       "type": "project",
@@ -257,7 +257,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "PostCode.Services >= 1.0.0",
+      "Mastek.Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -288,8 +288,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\PostCode.Services\\PostCode.Services.csproj": {
-              "projectPath": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\PostCode.Services\\PostCode.Services.csproj"
+            "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\PostCode.Services\\Mastek.Services.csproj": {
+              "projectPath": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\PostCode.Services\\Mastek.Services.csproj"
             }
           }
         }

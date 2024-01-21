@@ -51,9 +51,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\PostCode.Services\\PostCode.Services.csproj",
-      "projectName": "PostCode.Services",
-      "projectPath": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\PostCode.Services\\PostCode.Services.csproj",
+      "projectUniqueName": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\PostCode.Services\\Mastek.Services.csproj",
+      "projectName": "Mastek.Services",
+      "projectPath": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\PostCode.Services\\Mastek.Services.csproj",
       "packagesPath": "C:\\Users\\jagdi\\.nuget\\packages\\",
       "outputPath": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\PostCode.Services\\obj\\",
       "projectStyle": "PackageReference",

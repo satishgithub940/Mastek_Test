@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PostCode.Services\PostCode.Services.csproj" />
+    <ProjectReference Include="..\PostCode.Services\Mastek.Services.csproj" />
   </ItemGroup>
 
 </Project>

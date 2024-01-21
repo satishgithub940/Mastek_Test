@@ -33,7 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Mastek.API/1.0.0": {
         "dependencies": {
-          "PostCode.Services": "1.0.0",
+          "Mastek.Services": "1.0.0",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
@@ -393,16 +393,16 @@
           "Mastek.Model.dll": {}
         }
       },
-      "PostCode.Services/1.0.0": {
+      "Mastek.Services/1.0.0": {
         "dependencies": {
           "Mastek.Model": "1.0.0",
           "PostCodeAPI.Services": "1.0.0"
         },
         "runtime": {
-          "PostCode.Services.dll": {}
+          "Mastek.Services.dll": {}
         },
         "compile": {
-          "PostCode.Services.dll": {}
+          "Mastek.Services.dll": {}
         }
       },
       "PostCodeAPI.Services/1.0.0": {
@@ -2169,7 +2169,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "PostCode.Services/1.0.0": {
+    "Mastek.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
