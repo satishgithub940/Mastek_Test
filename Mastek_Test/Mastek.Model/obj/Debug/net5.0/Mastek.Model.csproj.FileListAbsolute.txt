@@ -1,0 +1,11 @@
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek.Model\bin\Debug\net5.0\Mastek.Model.deps.json
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek.Model\bin\Debug\net5.0\Mastek.Model.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek.Model\bin\Debug\net5.0\Mastek.Model.pdb
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek.Model\obj\Debug\net5.0\Mastek.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek.Model\obj\Debug\net5.0\Mastek.Model.AssemblyInfoInputs.cache
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek.Model\obj\Debug\net5.0\Mastek.Model.AssemblyInfo.cs
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek.Model\obj\Debug\net5.0\Mastek.Model.csproj.CoreCompileInputs.cache
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek.Model\obj\Debug\net5.0\Mastek.Model.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek.Model\obj\Debug\net5.0\refint\Mastek.Model.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek.Model\obj\Debug\net5.0\Mastek.Model.pdb
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek.Model\obj\Debug\net5.0\ref\Mastek.Model.dll

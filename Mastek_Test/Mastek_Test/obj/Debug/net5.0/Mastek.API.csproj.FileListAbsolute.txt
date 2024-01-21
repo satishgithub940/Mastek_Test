@@ -31,3 +31,9 @@ D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\obj\Debug\net
 D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\obj\Debug\net5.0\Mastek.API.pdb
 D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\obj\Debug\net5.0\Mastek.API.genruntimeconfig.cache
 D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\obj\Debug\net5.0\ref\Mastek.API.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\bin\Debug\net5.0\Mastek.Model.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\bin\Debug\net5.0\PostCode.Services.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\bin\Debug\net5.0\PostCodeAPI.Services.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\bin\Debug\net5.0\PostCode.Services.pdb
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\bin\Debug\net5.0\Mastek.Model.pdb
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\Mastek_Test\bin\Debug\net5.0\PostCodeAPI.Services.pdb

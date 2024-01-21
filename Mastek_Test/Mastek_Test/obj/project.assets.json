@@ -91,6 +91,43 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Mastek.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Mastek.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mastek.Model.dll": {}
+        }
+      },
+      "PostCode.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Mastek.Model": "1.0.0",
+          "PostCodeAPI.Services": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PostCode.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PostCode.Services.dll": {}
+        }
+      },
+      "PostCodeAPI.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Mastek.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PostCodeAPI.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PostCodeAPI.Services.dll": {}
+        }
       }
     }
   },
@@ -201,10 +238,26 @@
         "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Mastek.Model/1.0.0": {
+      "type": "project",
+      "path": "../Mastek.Model/Mastek.Model.csproj",
+      "msbuildProject": "../Mastek.Model/Mastek.Model.csproj"
+    },
+    "PostCode.Services/1.0.0": {
+      "type": "project",
+      "path": "../PostCode.Services/PostCode.Services.csproj",
+      "msbuildProject": "../PostCode.Services/PostCode.Services.csproj"
+    },
+    "PostCodeAPI.Services/1.0.0": {
+      "type": "project",
+      "path": "../PostCodeAPI.Services/PostCodeAPI.Services.csproj",
+      "msbuildProject": "../PostCodeAPI.Services/PostCodeAPI.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "PostCode.Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -234,7 +287,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\PostCode.Services\\PostCode.Services.csproj": {
+              "projectPath": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\PostCode.Services\\PostCode.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

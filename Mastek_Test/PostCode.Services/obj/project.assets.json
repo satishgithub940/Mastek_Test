@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Mastek.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Mastek.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mastek.Model.dll": {}
+        }
+      },
+      "PostCodeAPI.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Mastek.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PostCodeAPI.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PostCodeAPI.Services.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Mastek.Model/1.0.0": {
+      "type": "project",
+      "path": "../Mastek.Model/Mastek.Model.csproj",
+      "msbuildProject": "../Mastek.Model/Mastek.Model.csproj"
+    },
+    "PostCodeAPI.Services/1.0.0": {
+      "type": "project",
+      "path": "../PostCodeAPI.Services/PostCodeAPI.Services.csproj",
+      "msbuildProject": "../PostCodeAPI.Services/PostCodeAPI.Services.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Mastek.Model >= 1.0.0",
+      "PostCodeAPI.Services >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\jagdi\\.nuget\\packages\\": {}
@@ -33,7 +71,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\Mastek.Model\\Mastek.Model.csproj": {
+              "projectPath": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\Mastek.Model\\Mastek.Model.csproj"
+            },
+            "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\PostCodeAPI.Services\\PostCodeAPI.Services.csproj": {
+              "projectPath": "D:\\Satish\\Resume 2023\\Extentia\\Mastek Test\\Mastek_Test\\PostCodeAPI.Services\\PostCodeAPI.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

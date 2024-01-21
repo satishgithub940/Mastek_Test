@@ -9,3 +9,9 @@ D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\obj\Deb
 D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\obj\Debug\net5.0\refint\PostCode.Services.dll
 D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\obj\Debug\net5.0\PostCode.Services.pdb
 D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\obj\Debug\net5.0\ref\PostCode.Services.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\bin\Debug\net5.0\Mastek.Model.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\bin\Debug\net5.0\PostCodeAPI.Services.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\bin\Debug\net5.0\Mastek.Model.pdb
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\bin\Debug\net5.0\PostCodeAPI.Services.pdb
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\obj\Debug\net5.0\PostCode.Services.csproj.AssemblyReference.cache
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCode.Services\obj\Debug\net5.0\PostCode.Services.csproj.CopyComplete

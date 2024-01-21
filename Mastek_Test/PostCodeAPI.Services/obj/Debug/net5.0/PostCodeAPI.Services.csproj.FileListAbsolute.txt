@@ -1,0 +1,15 @@
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCodeAPI.Services\bin\Debug\net5.0\PostCodeAPI.Services.deps.json
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCodeAPI.Services\bin\Debug\net5.0\PostCodeAPI.Services.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCodeAPI.Services\bin\Debug\net5.0\PostCodeAPI.Services.pdb
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCodeAPI.Services\bin\Debug\net5.0\Mastek.Model.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCodeAPI.Services\bin\Debug\net5.0\Mastek.Model.pdb
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCodeAPI.Services\obj\Debug\net5.0\PostCodeAPI.Services.csproj.AssemblyReference.cache
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCodeAPI.Services\obj\Debug\net5.0\PostCodeAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCodeAPI.Services\obj\Debug\net5.0\PostCodeAPI.Services.AssemblyInfoInputs.cache
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCodeAPI.Services\obj\Debug\net5.0\PostCodeAPI.Services.AssemblyInfo.cs
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCodeAPI.Services\obj\Debug\net5.0\PostCodeAPI.Services.csproj.CoreCompileInputs.cache
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCodeAPI.Services\obj\Debug\net5.0\PostCodeAPI.Services.csproj.CopyComplete
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCodeAPI.Services\obj\Debug\net5.0\PostCodeAPI.Services.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCodeAPI.Services\obj\Debug\net5.0\refint\PostCodeAPI.Services.dll
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCodeAPI.Services\obj\Debug\net5.0\PostCodeAPI.Services.pdb
+D:\Satish\Resume 2023\Extentia\Mastek Test\Mastek_Test\PostCodeAPI.Services\obj\Debug\net5.0\ref\PostCodeAPI.Services.dll

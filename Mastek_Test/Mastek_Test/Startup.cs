@@ -7,6 +7,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using PostCode.Services.PostCode;
+using PostCodeAPI.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,6 +28,8 @@ namespace Mastek_Test
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<IPostCode, PostCodeService>();
+            services.AddScoped<IPostCodeAPIService, PostCodeAPIService>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
